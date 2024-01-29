@@ -7,8 +7,7 @@ Welcome to the "Deep Learning Concepts Implementation" repository! This reposito
 2. [Implemented Concepts](#implemented-concepts)
 3. [Getting Started](#getting-started)
 4. [Folder Structure](#folder-structure)
-5. [Contributing](#contributing)
-6. [License](#license)
+
 
 ## Overview
 
@@ -25,7 +24,15 @@ The repository currently includes implementations for the following deep learnin
 - Regularization
 - Optimizers
 - Transfer Learning
-
+- Weight Initialization
+- Padding
+- Pooling
+- Visualizing CNN Feature Maps
+- ImageNet Pretrained Models Usuage
+- Gradient Descents
+- Implementation of CNN Architectures
+- BackPropagation
+  
 Each concept is implemented as a separate module with detailed comments and explanations to enhance your understanding.
 
 ## Getting Started
@@ -35,7 +42,7 @@ To get started, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/Deep-Learning-Concepts-Implementation.git
+   git clone https://github.com/Moiz-51135/Deep-Learning-Concepts-Implementation.git
    ```
 
 2. Navigate to the cloned repository:
@@ -62,12 +69,4 @@ The repository is organized as follows:
 
 Feel free to explore each folder to find relevant implementations and documentation.
 
-## Contributing
 
-Contributions are welcome! If you have additional concepts or improvements to existing implementations, please follow the [contribution guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-Happy learning and coding!
